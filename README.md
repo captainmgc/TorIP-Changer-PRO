@@ -33,14 +33,14 @@ sudo pacman -S --noconfirm curl tor
 
 1️⃣ Download the script and grant execution permission:
 ```bash
-git clone https://github.com/captainmgc/TorIP-Changer.git
-cd TorIP-Changer
-chmod +x ip-changer.sh
+git clone https://github.com/captainmgc/TorIP-Changer.git](https://github.com/captainmgc/TorIP-Changer-PRO
+cd TorIP-Changer-PRO
+chmod +x TorIP-Changer PRO.sh
 ```
 
 2️⃣ Run the script with root privileges:
 ```bash
-sudo ./ip-changer.sh
+sudo ./TorIP-Changer PRO.sh
 ```
 
 3️⃣ Enter "0" for continuous IP changes or specify a time interval. ⏳
