@@ -33,7 +33,7 @@ sudo pacman -S --noconfirm curl tor
 
 1️⃣ Download the script and grant execution permission:
 ```bash
-git clone https://github.com/captainmgc/TorIP-Changer.git](https://github.com/captainmgc/TorIP-Changer-PRO
+git clone https://github.com/captainmgc/TorIP-Changer-PRO
 cd TorIP-Changer-PRO
 chmod +x TorIP-Changer PRO.sh
 ```
