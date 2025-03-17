@@ -37,6 +37,7 @@ git clone https://github.com/captainmgc/TorIP-Changer.git](https://github.com/ca
 cd TorIP-Changer-PRO
 chmod +x TorIP-Changer PRO.sh
 ```
+![Logo 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg86ddOrmPQLS3fc1GncVuZVTFMxF9z9zZflZahQWtRYQvbEzCHwl_iupNq5_XcREjX-adKDPJ0iZKm-lAHe-DBP41kOb3t83C51SUHHrs0pkycu2_pcSWcdENQOrW_tHTmzJpWoIDeRex9hjpBO69cqYMHph6US6gFYz1f62jP5OqNdta4iZ9EXeA41_E/s16000/bw1ho86.jpg)
 
 2️⃣ Run the script with root privileges:
 ```bash
