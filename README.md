@@ -1,4 +1,5 @@
 # 🚀 TorIP Changer PRO
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTWy4Ii17XtW1g1DBu7IyUIAkyAFmHcwKepN0BdZXr0VqiNm9OCKiod0MV911u5-QYqs3oZCJpNsovPiaIK4-9WHkfgLZrj6cbPZN1NgWPeX_fWQPC5TXzvpNaC5ZmMTqYT_Eddh1nj5t2m9lb_Y7Nescds279UpylrUT76-4OCl9xmylFNoXtRdraF6k/s16000/logo2.jpg)
 
 TorIP Changer PRO is a Bash script that periodically changes your IP address using the Tor network. This allows you to browse the internet more anonymously. 🕵️‍♂️
 
